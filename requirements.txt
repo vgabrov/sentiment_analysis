@@ -1,3 +1,10 @@
-selenium
-tqdm
+transformers
+torch
+numpy
 pandas
+tqdm
+seaborn
+matplotlib
+statsmodels
+wordcloud
+selenium
